@@ -1,0 +1,14 @@
+m1
+<<<<<<< HEAD
+m2 add 
+m3
+
+4 m4 added after f2 
+=======
+m2 
+m3
+
+f1
+f2
+f3
+>>>>>>> feature
